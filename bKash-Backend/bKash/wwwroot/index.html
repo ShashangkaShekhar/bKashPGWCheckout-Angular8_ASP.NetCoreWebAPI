@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>bKash CheckOut Back-End</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link id="favicon" href="https://files.readme.io/62f324e-bkash_favicon_3.ico" rel="shortcut icon" type="image/x-icon">
+</head>
+<body>
+    <a href="https://developer.bka.sh/" target="_blank">
+        <img src="asset/bKashAPI.png" />
+
+    </a>
+    <div style="margin:10px;">
+        <h3>bKash CheckOut Credentials</h3>
+        <p>Collect bKash CheckOut Credentials from bKash.</p>
+        <ul>
+            <li>
+                app_key : "YOUR_APP_KEY"
+            </li>
+            <li>
+                app_secret : "YOUR_SECRET_KEY"
+            </li>
+            <li>
+                username : "YOUR_MERCHANT_USERNAME"
+            </li>
+            <li>
+                password : "YOUR_MERCHANT_PASSWORD"
+            </li>
+        </ul>
+    </div>
+
+    <div style="margin:10px;">
+        <h3>bKash CheckOut API</h3>
+        <p>
+            Please overview: <a href="https://developer.bka.sh/docs" target="_blank">https://developer.bka.sh/docs</a>
+            also go through: <a href="https://developer.bka.sh/reference" target="_blank">https://developer.bka.sh/reference</a>
+        </p>
+        <ul>
+            <li>
+                Grant Token : https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/token/grant
+            </li>
+            <li>
+                Create Payment : https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/payment/create
+            </li>
+            <li>
+                Execute Payment : https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/payment/execute
+            </li>
+        </ul>
+    </div>
+
+    <div style="margin:10px;">
+        <h3>bKash Test Wallet</h3>
+        <ul>
+            <li>
+                Wallet : "01770618575"
+            </li>
+            <li>
+                OTP : "123456"
+            </li>
+            <li>
+                PIN : "12121"
+            </li>
+        </ul>
+    </div>
+
+    <!--<div style="margin:10px;">
+        <h3>bKash CheckOut Back-End(.Net Core)</h3>
+        <ul>
+            <li>
+                Grant Token : GET: api/bKash/getbKashToken
+            </li>
+            <li>
+                Create Payment : POST: api/bKash/createPayment
+            </li>
+            <li>
+                Execute Payment : POST: api/bKash/executePayment
+            </li>
+            <li>
+                Save Payment : POST: api/bKash/savePayment
+            </li>
+        </ul>
+    </div>-->
+</body>
+</html>

@@ -1,0 +1,8 @@
+D:\Work\bKash\bKash-Backend\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+D:\Work\bKash\bKash-Backend\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+D:\Work\bKash\bKash-Backend\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+D:\Work\bKash\bKash-Backend\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+D:\Work\bKash\bKash-Backend\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+D:\Work\bKash\bKash-Backend\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+D:\Work\bKash\bKash-Backend\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+D:\Work\bKash\bKash-Backend\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
